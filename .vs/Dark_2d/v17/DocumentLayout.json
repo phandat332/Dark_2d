@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project_Game_3D_2D\\Dark_2d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F4333F-45D7-C96B-4169-ECCB19A26746}|Assembly-CSharp.csproj|e:\\project_game_3d_2d\\dark_2d\\assets\\scripts\\gamemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F4333F-45D7-C96B-4169-ECCB19A26746}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\PlayerCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F4333F-45D7-C96B-4169-ECCB19A26746}|Assembly-CSharp.csproj|E:\\Project_Game_3D_2D\\Dark_2d\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F4333F-45D7-C96B-4169-ECCB19A26746}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:02:14.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManeger.cs",
+              "DocumentMoniker": "E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\Scripts\\GameManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManeger.cs",
+              "ToolTip": "E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\Scripts\\GameManeger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManeger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:00:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCollision.cs",
+              "ToolTip": "E:\\Project_Game_3D_2D\\Dark_2d\\Assets\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\PlayerCollision.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:51:21.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

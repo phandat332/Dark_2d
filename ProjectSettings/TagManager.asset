@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -50,6 +51,12 @@ TagManager:
   - name: ForeGround
     uniqueID: 2436519283
     locked: 0
+  - name: Coin
+    uniqueID: 2786825021
+    locked: 0
   - name: Player
     uniqueID: 3170050113
+    locked: 0
+  - name: UI
+    uniqueID: 3960272743
     locked: 0
